@@ -38,8 +38,6 @@ Example `dwh.cfg` structure:
 
 ```ini
 [AWS]
-KEY = YOUR_AWS_ACCESS_KEY
-SECRET = YOUR_AWS_SECRET_KEY
 REGION = us-west-2
 DEFAULT_VPC_ID = vpc-xxxxxxxx
 
