@@ -1,0 +1,5 @@
+.venv/
+dwh.cfg
+*.pkl
+*/**/__pycache__
+.vscode
