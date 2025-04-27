@@ -118,7 +118,7 @@ python -m app --teardown
 
 ## Example Queries
 
-After setting up and populating the Redshift cluster, you can run the following example queries:
+After setting up and populating the Redshift cluster, you can run the following example queries using the `--sample` flag:
 
 ### Top 10 Most Played Songs
 
