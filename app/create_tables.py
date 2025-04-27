@@ -103,7 +103,7 @@ def run_queries(
             password=config.password,
             host=config.redshift_endpoint,
             port=config.redshift_port,
-            connect_timeout=10,  # Short connection timeout
+            connect_timeout=10,
         )
 
         cur = conn.cursor()
