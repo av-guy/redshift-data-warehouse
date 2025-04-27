@@ -92,6 +92,8 @@ This assumes you have the CLI installed on your system and have configured a use
 
 https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
+The required policies are outlined in [section 3][### 3. Create an IAM User for AWS CLI and boto3 Access].
+
 5. **Run the app using flags**
 
 This project uses command-line flags to control different stages:
