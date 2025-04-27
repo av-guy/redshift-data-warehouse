@@ -92,7 +92,7 @@ This assumes you have the CLI installed on your system and have configured a use
 
 https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
-The required policies are outlined in [Section 3](# Additional Information) of Additional Information.
+The required policies are outlined in [Section 3](#additional-information) of Additional Information.
 
 5. **Run the app using flags**
 
