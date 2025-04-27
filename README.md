@@ -88,7 +88,9 @@ Make sure your AWS credentials are available via:
 
 - `aws configure`
 
-This assumes you have the CLI installed on your system and have configured a user with the appropriate IAM permissions. For more information, you can visit this link: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+This assumes you have the CLI installed on your system and have configured a user with the appropriate IAM permissions. For more information, you can visit this link:
+
+https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
 5. **Run the app using flags**
 
