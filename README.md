@@ -87,8 +87,9 @@ pip install -r requirements.txt
 Make sure your AWS credentials are available via:
 
 - `aws configure`
-- OR setting environment variables
-- OR through IAM role permissions if running inside AWS services
+
+This assumes you have the CLI installed on your system and configured a user with the correct IAM permissions.
+For more information, you can visit this link: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
 5. **Run the app using flags**
 
