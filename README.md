@@ -66,8 +66,8 @@ PORT = 5439
 1. **Clone the repository**
 
 ```bash
-git clone <repo_url>
-cd <repo_name>
+git clone https://github.com/av-guy/redshift-data-warehouse.git
+cd redshift-data-warehouse
 ```
 
 2. **Create and activate a virtual environment**
