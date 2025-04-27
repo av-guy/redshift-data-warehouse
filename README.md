@@ -9,7 +9,7 @@ It covers the following major tasks:
 - Create necessary AWS resources (IAM Role, Security Group, Subnet Group, Redshift Cluster)
 - Copy raw event and song JSON data from S3 into Redshift staging tables
 - Transform and load data from staging tables into a star-schema optimized data model
-- Validate the record counts for each table to ensure correct data loading
+- Validate data ingestion through the use of sample queries.
 - Provide easy teardown of all AWS resources after completion
 
 The goal is to demonstrate a full pipeline for building and managing a cloud-based data warehouse solution.
